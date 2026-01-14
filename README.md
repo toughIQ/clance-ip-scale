@@ -8,13 +8,20 @@ This repository contains a standalone, interactive HTML version of the **Clance 
 
 You do not need a web server, Python, or any installation. The entire application lives in a single file.
 
-### Option A: Simple Download (Recommended)
+### Option A: Instant Online Start (Recommended)
+You can run the tool directly in your browser without downloading anything via htmlpreview:
+👉 **[Click here to open the Test](https://htmlpreview.github.io/?https://github.com/toughIQ/clance-ip-scale/blob/main/clance-ip-scale.html)**
+
+*(Note: This uses htmlpreview.github.io to render the file directly from this repository. The execution remains local in your browser.)*
+
+### Option B: Download & Run Offline
+If you prefer to keep the file or use it without internet access:
 1. Navigate to the file [clance-ip-scale.html](clance-ip-scale.html) in this repository.
 2. Download the file to your computer (Click the "Download raw file" button or "Save link as...").
 3. **Double-click** the downloaded file.
 4. It will open in your default web browser.
 
-### Option B: Git Clone
+### Option C: Git Clone
 If you are familiar with Git, you can clone the repository:
 
 ```bash
@@ -25,7 +32,7 @@ cd clance-ip-scale
 
 ## 🔒 Privacy
 
-* **Local Execution:** This tool runs 100% locally in your browser.
+* **Local Execution:** This tool runs 100% locally in your browser (client-side JavaScript).
 * **No Data Transfer:** No inputs or results are sent to any server. Your answers stay on your machine.
 
 ## ℹ️ Credits & Disclaimer
