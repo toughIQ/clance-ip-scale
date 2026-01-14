@@ -37,8 +37,10 @@ The intellectual property and scientific content of the test belong to **Pauline
 * **Official Website:** [paulineroseclance.com](https://paulineroseclance.com/)
 * **Original PDF:** [IPTestandscoring.pdf](https://paulineroseclance.com/pdf/IPTestandscoring.pdf)
 
-### Technical Implementation
+### Technical Implementation & Legal Disclaimer
 Digital implementation and usability enhancements created by **Chris Tawfik (toughIQ)**.
+
+**Important:** This interactive version is a technical adaptation only. **I do not claim ownership of the intellectual property or scientific content**, which remains exclusively with the original authors.
 
 * This project is not affiliated with Dr. Clance.
 * It is provided "as is" for educational and self-reflection purposes.
