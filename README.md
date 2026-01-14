@@ -33,9 +33,9 @@ cd clance-ip-scale
 ### Scientific Content
 The intellectual property and scientific content of the test belong to **Pauline Rose Clance, Ph.D., ABPP**. This repository merely provides a digital interface for the existing test.
 
-* [cite_start]**Original Source:** _The Impostor Phenomenon: When Success Makes You Feel Like A Fake_ (pp. 20-22), by P.R. Clance, 1985, Toronto: Bantam Books[cite: 96].
-* [cite_start]**Official Website:** [paulineroseclance.com](https://paulineroseclance.com/) [cite: 99]
-* [cite_start]**Original PDF:** [IPTestandscoring.pdf](https://paulineroseclance.com/pdf/IPTestandscoring.pdf) [cite: 1]
+* **Original Source:** _The Impostor Phenomenon: When Success Makes You Feel Like A Fake_ (pp. 20-22), by P.R. Clance, 1985, Toronto: Bantam Books.
+* **Official Website:** [paulineroseclance.com](https://paulineroseclance.com/)
+* **Original PDF:** [IPTestandscoring.pdf](https://paulineroseclance.com/pdf/IPTestandscoring.pdf)
 
 ### Technical Implementation
 Digital implementation and usability enhancements created by **Chris Tawfik (toughIQ)**.
