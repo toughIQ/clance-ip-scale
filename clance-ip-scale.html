@@ -71,6 +71,7 @@
         /* Implementer Note */
         .implementer { margin-top: 20px; padding-top: 15px; border-top: 1px dashed #ccc; font-size: 0.9em; color: #95a5a6; }
         .implementer a { color: #7f8c8d; font-weight: normal; }
+        .implementer a:hover { color: #3498db; }
 
         /* Mobile Adjustments */
         @media (max-width: 600px) {
@@ -138,6 +139,8 @@
                 This interactive version is a technical adaptation only. I do not claim ownership of the intellectual property or scientific content, which remains with the original authors.
             </p>
             <a href="mailto:toughiq@gmail.com">toughiq@gmail.com</a>
+            <span class="separator">•</span>
+            <a href="https://github.com/toughIQ/clance-ip-scale" target="_blank" id="linkGithub">GitHub Project</a>
         </div>
     </div>
 
@@ -160,6 +163,7 @@
                 footerCitation: "Source: The Impostor Phenomenon: When Success Makes You Feel Like A Fake (pp. 20-22), by P.R. Clance, 1985, Toronto: Bantam Books.",
                 linkWebsite: "More information",
                 linkPDF: "Original PDF",
+                linkGithub: "GitHub Project",
                 implementerText: "Digital implementation and usability enhancements by <strong>Chris Tawfik (toughIQ)</strong>.<br>This interactive version is a technical adaptation only. I do not claim ownership of the intellectual property or scientific content, which remains with the original authors.",
                 results: [
                     "Few Impostor characteristics",
@@ -206,6 +210,7 @@
                 footerCitation: "Quelle: The Impostor Phenomenon: When Success Makes You Feel Like A Fake (pp. 20-22), by P.R. Clance, 1985, Toronto: Bantam Books.",
                 linkWebsite: "Mehr Informationen",
                 linkPDF: "Originales PDF",
+                linkGithub: "GitHub Projekt",
                 implementerText: "Digitale Umsetzung und Usability-Optimierung durch <strong>Chris Tawfik (toughIQ)</strong>.<br>Diese interaktive Version ist eine rein technische Adaption. Ich beanspruche keinerlei Rechte am geistigen Eigentum oder den wissenschaftlichen Inhalten; diese verbleiben bei den Originalautorinnen.",
                 results: [
                     "Wenige Impostor-Merkmale",
@@ -313,6 +318,7 @@
             // Updated Link Texts
             document.getElementById('linkWebsite').textContent = txt.linkWebsite;
             document.getElementById('linkPDF').textContent = txt.linkPDF;
+            document.getElementById('linkGithub').textContent = txt.linkGithub;
 
             // Updated Implementer Note
             document.getElementById('implementerText').innerHTML = txt.implementerText;
